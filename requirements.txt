@@ -1,0 +1,14 @@
+SpeechRecognition
+pyttsx3
+pyaudio
+wikipedia
+requests
+pyjokes
+pyautogui
+psutil
+Pillow
+playsound==1.2.2
+pyperclip
+screen-brightness-control
+comtypes
+pycaw
